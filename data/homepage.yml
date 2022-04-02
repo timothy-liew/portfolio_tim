@@ -1,0 +1,194 @@
+# banner
+banner:
+  title: "Hi! I’m <br> Timothy <br> <small> Statistics Lecturer and Data Enthusiast</small>"
+  button:
+    enable: true
+    label: "Contact Tim"
+    icon: 'ti-email'
+    URL: "timothylth93@gmail.com"
+  
+# contact 
+contact:
+  enable: true
+  title: 'Contact Tim'
+  contact_image: "images/about/Tim_Cafe.jpg"
+  email:
+    title: "Email"
+    email: "timothylth93@gmail.com"
+  button:
+    label: "Contact Tim"
+    icon: 'ti-email'
+    URL: "mailto:timothylth93@gmail.com"
+
+# about
+about:
+  enable : true
+  content : 
+    <p class="lead">
+    Sometimes when I code I pretend I'm a magician, because all the cool things I can do with a little 
+    code certainly feels like magic. When I'm not knee deep in data wrangling or visualisation, I
+    take it easy by playing Magic the Gathering or cosy up with a good book.
+    </p>
+    <p class="lead">
+    In addition to doing various data analytics projects, I often use R to solve some problem or expedite some process at work.
+    I've used R to create scripts that extract information from Word documents, automate emails to my students, or conduct Monte
+    Carlo simulations to illustrate statistical concepts.
+    
+    </p>
+  author_image: "images/about/tim_linkedin.jpeg"
+  button:
+    enable : true
+    label : "know more"
+    URL : "about"
+
+# portfolio
+portfolio:
+  enable : true
+  title : "Data Science Portfolio"
+  item_show : 2
+  item_width_lg: 6
+  # portfolio item comes from 'data/portfolio.yml' item.
+
+
+
+# experience
+experience:
+  enable : true
+  title : "Experience"
+  description: "<p class='lead'> Over 2 years experience of teaching statistics and data analytics. I frequently write code to expedite processes at my workplace.</p>"
+  button:
+    icon: "ti-linkedin"
+    btnText: "Linkedin"
+    URL: "https://www.linkedin.com/in/timothy-liew-134616136/"
+  button2:
+    icon: "ti-file"
+    btnText: "Download My Resume"
+    URL: "/cv/resume-tim.pdf"
+  
+  item: 
+    - logo : "images/experience/icon-1.png"
+      title : "Statistics Lecturer"
+      company : "HELP University"
+      duration : "Nov 2019 - Present"
+      
+    - logo : "images/experience/icon-2.png"
+      title : "Academic Tutor"
+      company : "HELP University"
+      duration : "Aug 2016 - Aug 2018"
+      
+# education
+education:
+  enable : true
+  title : "Education"
+  item:
+    - title : "Master of Science in Behavioural and Data Science (MSc)"
+      year : "2019"
+      academy : "University of Warwick"
+      
+    - title : "Bachelor of Psychology (Honours)"
+      year : "2016"
+      academy : "HELP University"
+
+      
+# skill
+skill:
+  enable : true
+  title : "Skills"
+  item:
+    - title : "R"
+      progress : "70%"
+      color : "#fdb157"
+      
+    - title : "SQL"
+      progress : "40%"
+      color : "#9473e6"
+      
+    - title : "MS Excel"
+      progress : "60%"
+      color : "#18bc9c"
+      
+    - title : "Tableau"
+      progress : "40%"
+      color : "#ffbcaa"
+
+# service
+service:
+  enable : false
+  title : "Services"
+  item:
+    - title : "UI Design"
+      icon : "ti-palette"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      highlighted : false
+
+    - title : "UX Design"
+      icon : "ti-vector"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      highlighted : true
+
+    - title : "Interaction Design"
+      icon : "ti-panel"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      highlighted : false
+
+
+
+# testimonial
+testimonial:
+  enable : false
+  title : "References"
+  item:
+    - name : "Justin Kurland, PhD"
+      image : "images/testimonial/justin.jpg"
+      designation : "Lead Data Scientist, Northwestern Mutual"
+      content : "<p class='lead text-white'><em>In less than 6 months after starting my first Business Science Course with Matt I had fully transitioned into a role as a lead data scientist and my life is better for it!</em></p>"
+      
+    - name : "Chris Selig"
+      image : "images/testimonial/chris.jpg"
+      designation : "Data Scientist"
+      content : "<p class='lead text-white'><em>Because of all the R courses Matt Dancho has provided, I landed my first Data Scientist role. Setting up shiny dashboards in AWS was extremely helpful during my interview.</em></p>"
+        
+    - name : "Mohana Krishna Chittoor"
+      image : "images/testimonial/mohana.jpg"
+      designation : "Lead Data Scientist, Money View"
+      content : "<p class='lead text-white'><em>After your entry into my life, I got a 10% pay raise and then after another 6-months of 26%, and in just another 2-months a 40% hike. I can grab a job wherever I want.</em></p>"
+      
+# client logo slider
+clients_logo_slider:
+  enable : false
+  item:
+    - logo : "images/clients-logo/client-logo-1.png"
+      URL : "http://examplesite.com"
+      
+    - logo : "images/clients-logo/client-logo-2.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-3.png"
+      URL : "http://examplesite.com"
+      
+    - logo : "images/clients-logo/client-logo-4.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-5.png"
+      URL : "http://examplesite.com"
+      
+    - logo : "images/clients-logo/client-logo-1.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-2.png"
+      URL : "http://examplesite.com"
+      
+    - logo : "images/clients-logo/client-logo-3.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-4.png"
+      URL : "http://examplesite.com"
+      
+    - logo : "images/clients-logo/client-logo-5.png"
+      URL : "#"
+
+# blog
+blog:
+  enable : false
+  title : "Blogs"
+  # blog post comes from "content/blog" folder
