@@ -4,7 +4,7 @@ summaryLength: '10'
 theme: kross-hugo-data-science
 title: Timothy Liew
 params:
-  address: --
+  address: Petaling Jaya, Selangor, Malaysia
   author: Timothy Liew
   baidu_analytics_id: ''
   baidu_site_verification: ''
@@ -16,7 +16,7 @@ params:
     expire_days: 2
   copyright: Copyright &copy; 2021 [Timothy Liew]
   description: An example data science portfolio with kross theme.
-  email: your-email@gmail.com
+  email: timothylth93@gmail.com
   google_analytics_id: ''
   home: Home
   logo: ''
