@@ -2,7 +2,7 @@
 categories:
 - web apps
 date: "2022-03-30T12:14:34+06:00"
-description: Product Price Recommendation Application.
+description: Airbnb Tableau Dashboard.
 draft: false
 github_url: NA
 image: images/portfolio/airbnb_dashboard.jpg
