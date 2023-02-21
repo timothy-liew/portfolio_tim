@@ -1,6 +1,6 @@
 ---
 categories:
-- web apps
+- web app
 date: "2022-03-30T12:14:34+06:00"
 description: Airbnb Tableau Dashboard.
 draft: false

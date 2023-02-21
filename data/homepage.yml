@@ -1,6 +1,6 @@
 # banner
 banner:
-  title: "Hi! I’m <br> Timothy <br> <small> Statistics Lecturer and Data Enthusiast</small>"
+  title: "Hi! I’m <br> Timothy <br> <small> Data Analyst and Enthusiast</small>"
   button:
     enable: true
     label: "Contact Tim"
@@ -30,9 +30,13 @@ about:
     take it easy by playing Magic the Gathering or cosy up with a good book.
     </p>
     <p class="lead">
-    In addition to doing various data analytics projects, I often use R to solve some problem or expedite some process at work.
+    When I was working as a lecturer, I often use R to solve some problem or expedite some process at work.
     I've used R to create scripts that extract information from Word documents, automate emails to my students, or conduct Monte
     Carlo simulations to illustrate statistical concepts.
+    
+    After transitioning to a BI Analyst, I leveraged SQL and Metabase to create quality dashboards that helped support 
+    various business decisions. I loved the process of using lines of code to transform raw data into actionable insights that help 
+    drive the business forward. 
     
     </p>
   author_image: "images/about/tim_linkedin.jpeg"
@@ -55,7 +59,7 @@ portfolio:
 experience:
   enable : true
   title : "Experience"
-  description: "<p class='lead'> Over 2 years experience of teaching statistics and data analytics. I frequently write code to expedite processes at my workplace.</p>"
+  description: "<p class='lead'> In both lecturing and doing BI analytics, I leveraged a wide range of tools to automate processes, build dashboards, and conduct data analyses</p>"
   button:
     icon: "ti-linkedin"
     btnText: "Linkedin"
@@ -67,14 +71,14 @@ experience:
   
   item: 
     - logo : "images/experience/icon-1.png"
-      title : "Statistics Lecturer"
-      company : "HELP University"
-      duration : "Nov 2019 - Present"
+      title : "BI Analyst"
+      company : "Naluri"
+      duration : "Sep 2022 - Present"
       
     - logo : "images/experience/icon-2.png"
-      title : "Academic Tutor"
+      title : "Statistics Lecturer"
       company : "HELP University"
-      duration : "Aug 2016 - Aug 2018"
+      duration : "Nov 2019 - Aug 2022"
       
 # education
 education:
@@ -100,11 +104,11 @@ skill:
       color : "#fdb157"
       
     - title : "SQL"
-      progress : "40%"
+      progress : "70%"
       color : "#9473e6"
       
     - title : "MS Excel"
-      progress : "60%"
+      progress : "70%"
       color : "#18bc9c"
       
     - title : "Tableau"
