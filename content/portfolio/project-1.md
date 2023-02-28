@@ -1,6 +1,6 @@
 ---
 categories:
-- web apps
+- web app
 date: "2021-03-26T12:14:34+06:00"
 description: Flights Dataset Dashboard Demo
 draft: false
