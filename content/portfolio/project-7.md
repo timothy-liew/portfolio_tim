@@ -13,4 +13,4 @@ title: Bicycle Sales Dashboard
 
 #### Project Details
 
-As part of a skillshare course, I built a PowerBI dashboard that shows the total profits across time and products, with various filters that allow for drilling down. 
+As part of a Skillshare course, I built a PowerBI dashboard that shows the total profits across time and products, with various filters that allow for drilling down.  
